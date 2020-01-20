@@ -1,6 +1,6 @@
 # awesome-nodejs-cn
 
->该内容从翻译[Awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)项目,为大家提供一个快速查阅有效nodejs的中文索引，希望能够提升大家找nodejs需要项目的效率。（目前Github上已经有该项目的中文翻译了，不过只翻译了一小部分，看提交时间两年没维护了，故自己完整的翻译了一份。）
+>该项目翻译至[Awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs),为大家提供一个快速查阅有效nodejs的中文索引，希望能够提升大家找nodejs相关资源&项目的效率。（目前Github上已经有该项目的中文翻译了，不过只翻译了一小部分，看提交时间两年没维护了，故自己完整的翻译了一份。）
 
 ## 路线图
 目前该目录索引主要来自前言提到的awesome-nodejs，后续增量的新内容有兴趣的小伙伴可以PR更新，可以提交一些自己开发的优质资源分享

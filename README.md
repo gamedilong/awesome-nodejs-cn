@@ -163,14 +163,15 @@
 ### 函数式编程
 
 - [lodash](https://github.com/lodash/lodash) -  可提供一致性，自定义，性能和其他功能的实用程序库。 更好更快的Underscore.js.
-- [immutable](https://github.com/facebook/immutable-js) - 不变的数据收集s.
+- [immutable](https://github.com/facebook/immutable-js) - 不变的数据收集.
 - [Ramda](https://github.com/ramda/ramda) - 实用程序库着重于通过自动计算和相反的参数顺序实现的灵活功能组合。 避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) - 一套用于JavaScript中的通用函数编程的库，它允许您编写优雅的、模块化的应用程序，并且bug更少，重用性更强。.
 - [Mout](https://github.com/mout/mout) - 该库与其他现有解决方案之间最大的区别是，您可以选择只加载需要的模块/函数，而不需要额外开销。.
 - [Bacon.js](https://github.com/baconjs/bacon.js) - 函数式响应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) - 用于转换、组合和查询各种数据的函数式响应式库.
 - [Lazy.js](https://github.com/dtao/lazy.js) - 类似于lodash/underline的工具库，但具有惰性计算，在许多情况下可以转换为卓越的性能.
-- [Kefir.js](https://github.com/kefirjs/kefir) - 响应式库，专注于高性能和低内存使用。.
+- [Kefir.js](https://github.com/kefirjs/kefir) - 响应式库，专注于高性能和低内存使用.
+- [immer](https://github.com/immerjs/immer) 不可变数据的特性 
 
 ### HTTP
 
@@ -446,6 +447,7 @@
 - [math-clamp](https://github.com/sindresorhus/math-clamp) - 钳制一个数字.
 - [algebra](https://github.com/fibo/algebra) - 代数结构.
 - [multimath](https://github.com/nodeca/multimath) - 在WebAssembly和JS中创建快速图像数学的核心.
+- [decimal.js](https://github.com/MikeMcl/decimal.js) - 浮点计算.
 
 ### 日期处理
 
@@ -594,6 +596,7 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - 暴力DDoS攻击保护.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - 异步非阻塞哈希.
 - [jose-simple](https://github.com/davesag/jose-simple) - 使用JOSE（JSON对象签名和加密）标准对数据进行加密和解密.
+- [helmet](https://github.com/helmetjs/helmet) helmet 常见攻击防御库，比如xss等等
 
 ### 基准化
 
@@ -636,6 +639,9 @@
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 具有实时监控功能的简单高性能Redis消息队列.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - 在没有样板文件的情况下构建基于Amazon简单队列服务（SQS）的应用程序.
 - [better-queue](https://github.com/diamondio/better-queue) - 无法使用Redis时简单高效的作业队列.
+- [amqp](https://github.com/squaremo/amqp.node)- amqplib rabbit等等消息队列连接库.
+- [kafka-node]( https://github.com/SOHU-Co/kafka-node)- kafka-node kafka客户端.
+
 
 ### Node.js管理工具
 

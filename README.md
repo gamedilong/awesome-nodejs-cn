@@ -756,7 +756,7 @@
 
 - [npms](https://npms.io) - 出色的包裹搜索功能，可使用[myriad of metrics](https://npms.io/about).
 - [npm addict](https://npmaddict.com) - 你日常加入的npm软件包.
-- [npmcompare.com](https://npmcompare.com) - 比较并发现npm软件包.
+- [npm-compare.com](https://npm-compare.com) - 比较并发现npm软件包.
 
 ### 文章
 

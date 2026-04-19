@@ -93,6 +93,8 @@
 - [Kadence](https://gitlab.com/deadcanaries/kadence) - Kademlia分布式哈希表.
 - [seedshot](https://github.com/twobucks/seedshot) - 通过浏览器共享临时P2P屏幕截图.
 - [js-git](https://github.com/creationix/js-git) - JS版Git实现.
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - 自我进化的AI编程智能，拥有无限记忆(TurboQuant)、遗传算法自进化、预测性错误检测、PageRank知识图谱、群体智能和对抗性防御.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+精选AI代理技能，适用于Claude Code、Cursor、Copilot、Windsurf、Cline。可视化仪表盘、一键安装、技能医生、自动更新.
 - [skale](https://github.com/skale-me/skale-engine) - 高性能分布式数据处理引擎.
 - [xlsx](https://github.com/sheetjs/js-xlsx) - 纯JS Excel电子表格阅读器和编写器.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Git的纯JavaScript实现.

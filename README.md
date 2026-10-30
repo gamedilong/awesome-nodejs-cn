@@ -722,8 +722,7 @@
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2客户端和服务器模块.
 - [adit](https://github.com/markelog/adit) - SSH 相关工具.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - 速率限制器，使节流变得容易.
-* [BetterQueue](https://github.com/Saiop68/better-queue)：基于 Redis 的 Node.js 分布式限流器与任务队列，支持跨进程优先级与崩溃恢复。
-
+- [BetterQueue](https://github.com/Saiop68/better-queue) - 基于 Redis 的 Node.js 分布式限流器与任务队列，支持跨进程优先级与崩溃恢复。
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - 具有本机线程的轻量级Web Worker API实现.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - 使从二进制发布安装Nodjes C++ 插件更简单的工具.
 - [opencv](https://github.com/peterbraden/node-opencv) - OpenCV的javascript绑定。计算机图形处理工具.
